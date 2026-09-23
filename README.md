@@ -25,5 +25,5 @@ Existen aparte otros datos abiertos y descargables en formato de documento prove
 ## ¿Donde está la logica de negocio?
 La aplicación realiza una serie de calculos sobre los datos obtenidos que porporcionan un analisis final de la situación en los diferentes lugares y proporcionan un producto final a modo de lista en la que se refleja una puntuación (o algo similar que sirva de sistema de valor) de cada uno de los sitios para alpinismo.
 
-## COnfiguración adicional
+## Configuración adicional
 Puede verse en detalle la configuración adicional de este proyecto en: [Ver dealles de configuración](configuracion.md)
