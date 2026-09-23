@@ -16,14 +16,14 @@ Este proyecto se centra concretamente en la problemática del alpinismo. Se pret
 Soy y siempre he sido un gran aficionado a todo tipo de deportesde montaña y siempre los he prácticado habiendome topado con el problema que el cliente describe a cerca de ellos en numerosas ocasiones e implicandome por tanto en la resolución del mismo.
 
 ## ¿Cómo se obtienen los datos?
-Conozco personalmente diferentes foros donde  se puede encontrar información respectiva al estado de los diferentes sistemas montañosos vinculada a la experiencia personal de otras personas.
+Conozco personalmente diferentes foros donde  se puede encontrar información respectiva al estado de los diferentes sistemas montañosos vinculada a la experiencia personal de otros montañeros.
 
-Además de los datos abiertos del satelite Copernicus, que porporcionan la posibilidad de descargar las imagenes de los lugares que interesen con cierta regularidad.
+Además de ello, existen los datos abiertos del satelite Copernicus, que porporcionan la posibilidad de descargar las imagenes de los lugares que interesen con cierta regularidad.
 
-Existen aparte otros datos abiertos y descargables en formato de documento provenientes plataformas similares a suremet.
+Existen aparte otros datos abiertos y descargables en formato de documento csv provenientes de plataformas similares a _suremet_.
 
 ## ¿Donde está la logica de negocio?
-La aplicación realiza una serie de calculos sobre los datos obtenidos que porporcionan un analisis final de la situación en los diferentes lugares y proporcionan un producto final a modo de lista en la que se refleja una puntuación (o algo similar que sirva de sistema de valor) de cada uno de los sitios para alpinismo.
+La aplicación realiza una serie de cálculos sobre los datos obtenidos que proporcionan un analisis final de la situación en los diferentes lugares y proporcionan un producto final a modo de lista en la que se refleja una puntuación (o algo similar que sirva de sistema de valor) de cada uno de los sitios para alpinismo.
 
 ## Configuración adicional
-Puede verse en detalle la configuración adicional de este proyecto en: [Ver dealles de configuración](configuracion.md)
+Puede verse en detalle la configuración adicional de este proyecto en: [Ver detalles de configuración](configuracion.md)
