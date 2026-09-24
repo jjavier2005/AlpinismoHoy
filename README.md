@@ -1,5 +1,5 @@
 # AlpinismoHoy
-Desarrollo de una solución informatica para dar solución a la falta de información actualizada sobre las condiciones en sistemas españoles
+Desarrollo de una solución informática para dar respuesta a la falta de información actualizada sobre las condiciones del medio natural en cordilleras españolas.
 
 
 ## Problema a resolver
@@ -16,7 +16,7 @@ Este proyecto se centra concretamente en la problemática del alpinismo. Se pret
 Soy y siempre he sido un gran aficionado a todo tipo de deportes de montaña y siempre los he prácticado habiendome topado con el problema que el cliente describe a cerca de ellos en numerosas ocasiones e implicandome por tanto personalmente en la resolución del mismo.
 
 ## ¿Cómo se obtienen los datos?
-Conozco personalmente diferentes foros donde  se puede encontrar información respectiva al estado de los diferentes sistemas montañosos vinculada a la experiencia personal de otros montañeros.
+Conozco diferentes foros donde  se puede encontrar información respectiva al estado de los diferentes sistemas montañosos vinculada a la experiencia personal de otros montañeros.
 
 Además de ello, existen los datos abiertos del satelite Copernicus, que porporcionan la posibilidad de descargar las imagenes de los lugares que interesen con cierta regularidad.
 
