@@ -10,7 +10,11 @@ España es un país montañoso, que cuenta con multitud de lugares a lo largo y 
 
 Cada uno de estos deportes requiere de una serie de condiciones naturales especificas que se deben dar para hacer posible su práctica. Sin embargo, hoy en dia es dificil conocer a donde deberiamos ir para encontrar lo que buscamos.
 
-Este proyecto se centra concretamente en la problemática del alpinismo. Se pretende proporcionar una solución en forma de aplicación web que permita *extraer* de forma clara y concisa los diferentes *datos* de interes y *procesarlos* para obtener a partir de ellos una *información visual eficaz* que ayude al usuario en la tarea de decidir el lugar y la fecha ideales.
+Concretamente en el alpinismo, existe el problema de que muchas veces se dan situaciones comprometidas en la montaña en las que una persona se halla haciendo una ruta y se encuntra con condiciones adversas que le impiden progresar adecuadamente o que lo ponen en una situacion de riesgo. 
+
+Dichas situaciones adversas mencionadas, no se reducen simplemente al tiempo atmosférico que se pueda dar en ese momento, si no también a las influencias que lo acontecido en dias anteriores puede tener. Por ejemplo, malas condiciones de la nieve, causando desprendimientos, abalanchas o riadas, poca nieve en zonas donde se esperaba, dando lugar a requerir un equipamiento diferente, o demasiada nieve, provocando las mimas consecuencias. No existe, por mucha organización que se tenga, una manera de saber, para sitios concretos como van a ser las condiciones sin volverse loco buscando (A menos que se trate de un lugar muy famoso).
+
+
 
 ## ¿Por que me implica personalmente?
 Soy y siempre he sido un gran aficionado a todo tipo de deportes de montaña y siempre los he prácticado habiendome topado con el problema que el cliente describe a cerca de ellos en numerosas ocasiones e implicandome por tanto personalmente en la resolución del mismo.
@@ -20,10 +24,10 @@ Conozco diferentes foros donde  se puede encontrar información respectiva al es
 
 Además de ello, existen los datos abiertos del satelite Copernicus, que porporcionan la posibilidad de descargar las imagenes de los lugares que interesen con cierta regularidad.
 
-Existen aparte otros datos abiertos y descargables en formato de documento csv provenientes de plataformas similares a _suremet_.
+Existen aparte otros datos abiertos y descargables en formato de documento csv provenientes de plataformas similares a _suremet_ o desde la propia _aemet_.
 
 ## ¿Donde está la logica de negocio?
-La aplicación realiza una serie de cálculos sobre los datos obtenidos que proporcionan un analisis final de la situación en los diferentes lugares y proporcionan un producto final a modo de lista en la que se refleja una puntuación (o algo similar que sirva de sistema de valor) de cada uno de los sitios para alpinismo.
+Se proporcionan imagenes y datos reales que solucionan el problema descrito al proporcionar toda la información requerida por el usuario para elegir el lugar concreto o saber que debe llevar a la salida que se va a realizar.
 
 ## Configuración adicional
 Puede verse en detalle la configuración adicional de este proyecto en: [Ver detalles de configuración](configuracion.md)
