@@ -1,5 +1,5 @@
 # AlpinismoHoy
-Desarrollo de una solución informática para dar respuesta a la falta de información actualizada sobre las condiciones del medio natural en cordilleras españolas.
+Desarrollo de la solución para dar respuesta a la falta de información actualizada sobre las condiciones del medio natural en sistemas montañosos españoles.
 
 
 ## Problema a resolver
