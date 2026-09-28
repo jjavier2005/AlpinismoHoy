@@ -21,11 +21,21 @@ Por ejemplo, un sitio donde yo he vivido este problema es Sierra Magina, en el s
 Soy y siempre he sido un gran aficionado a todo tipo de deportes de montaña y siempre los he prácticado habiendome topado con el problema que el cliente describe a cerca de ellos en numerosas ocasiones e implicandome por tanto personalmente en la resolución del mismo.
 
 ## ¿Cómo se obtienen los datos?
-Conozco diferentes foros donde  se puede encontrar información respectiva al estado de los diferentes sistemas montañosos, entendiendose por sistema montañoso, cordilleras y parques naturales de España donde se práctica alpinísmo o senderismo de alta montaña. 
+Para la obtención de los datos, trataremos de construir una representación del estado de la montaña a partir de la previsión meteorológica, estaciones cercanas a la montaña, cobertura de nieve, nivel de agua de arroyos, pendiente, historico de precipitación y reportes humanos.
 
-Además de ello, existen los datos abiertos del satelite Copernicus, que porporcionan la posibilidad de descargar las imagenes de los lugares que interesen con cierta regularidad.
+He reunido las siguientes fuentes:
 
-Existen aparte otros datos abiertos y descargables en formato de documento csv provenientes de plataformas similares a _suremet_ o desde la propia _aemet_.
+| Fuente | Información | Método de obtención | Uso en AlpinismoHoy |
+|:---|:---|:---:|:---|
+| [AEMET](https://www.aemet.es/) | Meteorología, predicciones y avisos | API | Condiciones meteorológicas |
+| [Meteoexploration](https://www.meteoexploration.com/) | Predicción específica de montaña | API | Meteorología en cumbres |
+| [Copernicus](https://land.copernicus.eu/) | Cobertura y evolución de la nieve | API / datos abiertos | Estado del manto nivoso |
+| [SAIH Guadalquivir](https://www.chguadalquivir.es/saih/) o similares para otras cuencas. | Precipitación, caudal y niveles | Datos abiertos / API | Condiciones hidrológicas |
+| [SUREMET](https://suremet.es/) | Temperatura, viento, precipitación y humedad | Scraping / datos disponibles | Observaciones meteorológicas locales |
+| [IGN / CNIG](https://www.ign.es/) | Altitud, relieve, pendiente y orientación | Datos abiertos | Caracterización del terreno |
+| [Junta de Andalucía](https://www.juntadeandalucia.es/) | Senderos, cartografía y espacios naturales | Datos abiertos / servicios geográficos | Información territorial |
+| Nevasport | Reportes y condiciones de montaña | Web scraping | Observaciones de usuarios |
+| Mendiak | Reportajes y condiciones de rutas | Web scraping | Observaciones de usuarios |
 
 ## ¿Donde está la logica de negocio?
 Se proporcionan imagenes y datos reales que solucionan el problema descrito al proporcionar toda la información requerida por el usuario para elegir el lugar concreto o saber que debe llevar a la salida que se va a realizar.
