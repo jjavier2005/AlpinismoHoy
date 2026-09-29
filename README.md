@@ -25,17 +25,19 @@ Para la obtención de los datos, trataremos de construir una representación del
 
 He reunido las siguientes fuentes:
 
-| Fuente | Información | Método de obtención | Uso en AlpinismoHoy |
-|:---|:---|:---:|:---|
-| [AEMET](https://www.aemet.es/) | Meteorología, predicciones y avisos | API | Condiciones meteorológicas |
-| [Meteoexploration](https://www.meteoexploration.com/) | Predicción específica de montaña | API | Meteorología en cumbres |
-| [Copernicus](https://land.copernicus.eu/) | Cobertura y evolución de la nieve | API / datos abiertos | Estado del manto nivoso |
-| [SAIH Guadalquivir](https://www.chguadalquivir.es/saih/) o similares para otras cuencas. | Precipitación, caudal y niveles | Datos abiertos / API | Condiciones hidrológicas |
-| [SUREMET](https://suremet.es/) | Temperatura, viento, precipitación y humedad | Scraping / datos disponibles | Observaciones meteorológicas locales |
-| [IGN / CNIG](https://www.ign.es/) | Altitud, relieve, pendiente y orientación | Datos abiertos | Caracterización del terreno |
-| [Junta de Andalucía](https://www.juntadeandalucia.es/) | Senderos, cartografía y espacios naturales | Datos abiertos / servicios geográficos | Información territorial |
-| Nevasport | Reportes y condiciones de montaña | Web scraping | Observaciones de usuarios |
-| Mendiak | Reportajes y condiciones de rutas | Web scraping | Observaciones de usuarios |
+- [AEMET](https://opendata.aemet.es/centrodedescargas/inicio) -> Mediante la API _OpenData_ de _AEMET_ se pueden obtener datos meteorológicos de los muicipios mas cercanos y estaciones.
+
+- [Meteoexploration](https://meteoexploration.com/es/forecasts/) -> Una web que ofrece pronosticos de montaña en retrospectiva y a futuro, no tengo claro si se pueden obtener, estoy investigandolo.
+
+- [Copernicus](https://land.copernicus.eu/en/products/snow/snow-cover-extent-europe-v1-0-500m) -> [Fotografía](c:\Users\javic\Downloads\2026-06-26-00_00_2026-06-26-23_59_FSC_Europe_20m_Daily_V2_FSC_OG.png) de alta resolución por satelite de Copernicus de la capa de nieve y [API estadística.](https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Statistical.html)
+
+- [SAIH](https://www.chguadalquivir.es/saih/) -> Datos del caudal de los rios, se pbtendría mediantre scrapping de los datos de la web para los valores históricos.
+
+- [IGN / CING](https://centrodedescargas.cnig.es/CentroDescargas/buscar-mapa) -> Para obtener mapa con elevada resolución de la zona.
+
+- [Junta de Andalucía](https://www.juntadeandalucia.es/medioambiente/portal/web/ventanadelvisitante/detalle-buscador-mapa/-/asset_publisher/Jlbxh2qB3NwR/content/subida-a-pico-m%C3%A1gina-y-miramundos) -> Aqui se obtiene una versión en GML de las posibles rutas.
+
+- [Wikiloc](https://es.wikiloc.com/rutas-senderismo/mata-bejid-torres-18668294) -> Scrapping para en caso de haber rutas recientes, obtener información adicional de rutas realizadas por personas.
 
 ## ¿Donde está la logica de negocio?
 Se proporcionan imagenes y datos reales que solucionan el problema descrito al proporcionar toda la información requerida por el usuario para elegir el lugar concreto o saber que debe llevar a la salida que se va a realizar.
