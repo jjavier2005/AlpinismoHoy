@@ -29,7 +29,7 @@ He reunido las siguientes fuentes:
 
 - [Meteoexploration](https://meteoexploration.com/es/forecasts/) -> Una web que ofrece pronosticos de montaña en retrospectiva y a futuro, no tengo claro si se pueden obtener, estoy investigandolo.
 
-- [Copernicus](https://land.copernicus.eu/en/products/snow/snow-cover-extent-europe-v1-0-500m) -> [Fotografía](c:\Users\javic\Downloads\2026-06-26-00_00_2026-06-26-23_59_FSC_Europe_20m_Daily_V2_FSC_OG.png) de alta resolución por satelite de Copernicus de la capa de nieve y [API estadística.](https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Statistical.html)
+- [Copernicus](https://land.copernicus.eu/en/products/snow/snow-cover-extent-europe-v1-0-500m) -> [Fotografía](media/sierra_nevada_26_06.png) de alta resolución por satelite de Copernicus de la capa de nieve y [API estadística.](https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Statistical.html)
 
 - [SAIH](https://www.chguadalquivir.es/saih/) -> Datos del caudal de los rios, se pbtendría mediantre scrapping de los datos de la web para los valores históricos.
 
