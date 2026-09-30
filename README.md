@@ -1,5 +1,5 @@
 # AlpinismoHoy
-Desarrollo de la solución para dar respuesta a la falta de información actualizada sobre las condiciones del medio natural en sistemas montañosos españoles.
+Desarrollo de la solución para dar respuesta a la falta de información actualizada sobre las condiciones del medio natural en sistemas montañosos de Jaén.
 
 
 ## Problema a resolver
@@ -8,11 +8,11 @@ Desarrollo de la solución para dar respuesta a la falta de información actuali
 
 España es un país montañoso, que cuenta con multitud de lugares a lo largo y ancho de su geografía que son idoneos para la práctica de deportes de montaña, como pueden ser el senderismo, _parachuting_, alpinismo, ski o _mountain bike_ entre otros.
 
-Cada uno de estos deportes requiere de una serie de condiciones naturales especificas que se deben dar para hacer posible su práctica. Sin embargo, hoy en dia es dificil conocer a donde deberiamos ir para encontrar lo que buscamos.
+Cada uno de estos deportes requiere de una serie de condiciones naturales especificas que se deben dar para hacer posible su práctica. Concretamente Jaén, es una de las provincias que mas montañas y entornos naturales tiene del sur de la peninsula, pero es una gran desconocida, lo que imposibilita muchas veces llegar a conocer o organizar un viaje o una escapada.
 
 Concretamente en el alpinismo, existe el problema de que muchas veces se dan situaciones comprometidas en la montaña en las que una persona se halla haciendo una ruta y se encuntra con condiciones adversas que le impiden progresar adecuadamente o que lo ponen en una situacion de riesgo debido a que no se ha elegido bien el destino, ya que no se ha podido acceder a suficiente información sobre el sitio al que se fué.
 
-Dichas situaciones adversas o simplemente no deseadas mencionadas, no se reducen simplemente al tiempo atmosférico que se pueda dar en ese momento, si no también a las influencias que lo acontecido en dias anteriores puede tener. Por ejemplo, malas condiciones de la nieve, causando desprendimientos, abalanchas o riadas, poca nieve en zonas donde se esperaba, dando lugar a requerir un equipamiento diferente, o demasiada nieve, provocando las mismas consecuencias. No existe, por mucha organización que se tenga, una manera de saber, para sitios concretos como van a ser las condiciones sin volverse loco buscando (A menos que se trate de un lugar muy famoso como algunas zonas de sierra Nevada o los Pirineos).
+Dichas situaciones adversas o simplemente no deseadas mencionadas, no se reducen simplemente al tiempo atmosférico que se pueda dar en ese momento, si no también a las influencias que lo acontecido en dias anteriores puede tener. Por ejemplo, malas condiciones de la nieve, causando desprendimientos, abalanchas o riadas, poca nieve en zonas donde se esperaba, dando lugar a requerir un equipamiento diferente, o demasiada nieve, provocando las mismas consecuencias. No existe, por mucha organización que se tenga, una manera de saber, para sitios como Jaén, como van a ser las condiciones de manera detallada y útil, cosa que si se da en otros sistemas, como Sierra Nevada, Gredos, la Sierra de Madrid o los Pirineos.
 
 Por ejemplo, un sitio donde yo he vivido este problema es Sierra Magina, en el sur de Jaén. Pese a presentar condiciones que la situan como un lugar adecuado para realizar actividades de alta montaña, no se dispone de una fuente de información detallada del estado de la montaña como si ocurre en el caso de Sierra Nevada, a la hora de realizar una expedición invernal como podría ser el canuto de peña Jaén no es posible saber el estado en que se encontrará el manto nivoso o siquiera si lo habrá, por tanto surge el problema de no saber si se va a poder realizar o no la actividad que tenemos en mente. Esta situación se repite con muchas de las montañas de características similares de Andalucía, como La Sagra en la Sierra de la Sagra, la sierra de Castril o La Maroma, en Málaga.
 
@@ -40,7 +40,7 @@ He reunido las siguientes fuentes:
 - [Wikiloc](https://es.wikiloc.com/rutas-senderismo/mata-bejid-torres-18668294) -> Scrapping para en caso de haber rutas recientes, obtener información adicional de rutas realizadas por personas.
 
 ## ¿Donde está la logica de negocio?
-Se proporcionan imagenes y datos reales que solucionan el problema descrito al proporcionar toda la información requerida por el usuario para elegir el lugar concreto o saber que debe llevar a la salida que se va a realizar.
+Se proporcionan imagenes y datos reales que solucionan el problema descrito al flitrar y ordenar la información obtenida, dando como resultado una estimación del estado de las diferentes zonas dentro de la provincia y recomendando la mejor en caso de que exista una.
 
 ## Configuración adicional
 Puede verse en detalle la configuración adicional de este proyecto en: [Ver detalles de configuración](configuracion.md)
