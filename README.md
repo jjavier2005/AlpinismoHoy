@@ -1,5 +1,5 @@
 # AlpinismoHoy
-Desarrollo de la solución para dar respuesta a la falta de información actualizada sobre las condiciones del medio natural en sistemas montañosos de Jaén.
+Exposición del problema existente en relación a la falta de información detallada sobre las condiciones naturales en montaña, concretamente en la provincia de Jaén.
 
 
 ## Problema a resolver
