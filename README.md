@@ -15,6 +15,7 @@ El problema concreto se da en el "canuto de peña Jaén", una escarpada pendient
 ![Fotografía de la zona en cuestión](media/canuto_peña_jaen.jpg)
 
 El boletín que se precisaría sería algo parecido a lo siguiente:
+
 ![Boletín de aemet](media/ficha_seguridad.jpg)
 
 ## ¿Por que me implica personalmente?
