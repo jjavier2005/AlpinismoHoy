@@ -15,13 +15,13 @@ El problema concreto se da en el "canuto de peña Jaén", una escarpada pendient
 ![Fotografía de la zona en cuestión](media/canuto_peña_jaen.jpg)
 
 El boletín que se precisaría sería algo parecido a lo siguiente:
-![Boletín de aemet](c:\Users\javic\Downloads\ficha_seguridad.jpg)
+![Boletín de aemet](media/ficha_seguridad.jpg)
 
 ## ¿Por que me implica personalmente?
 Soy y siempre he sido un gran aficionado a todo tipo de deportes de montaña y siempre los he prácticado habiendome topado con el problema que el cliente describe a cerca de ellos en numerosas ocasiones e implicandome por tanto personalmente en la resolución del mismo.
 
 ## ¿Cómo se obtienen los datos?
-Para la obtención de los datos, trataremos de construir una representación del estado de la montaña a partir de la previsión meteorológica, estaciones cercanas a la montaña, cobertura de nieve, pendiente, historico de precipitación y reportes humanos.
+Para la obtención de los datos, trataremos de construir una representación del estado de la montaña a partir de los datos meteorológicos actuales y pasados obtenidos periodicamente de estaciones cercanas a la montaña, cobertura de nieve, historico de precipitación y reportes humanos.
 
 He reunido las siguientes fuentes:
 
