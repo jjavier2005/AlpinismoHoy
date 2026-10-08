@@ -26,7 +26,7 @@ Para la obtención de los datos, trataremos de construir una representación del
 
 He reunido las siguientes fuentes:
 
-- [AEMET](https://opendata.aemet.es/centrodedescargas/inicio) -> Mediante la API _OpenData_ de _AEMET_ se pueden obtener datos meteorológicos de los muicipios mas cercanos y estaciones.
+- [AEMET](https://opendata.aemet.es/opendata/sh/a7ef04e2) -> Mediante la API _OpenData_ de _AEMET_ se pueden obtener datos meteorológicos de los muicipios mas cercanos y estaciones de manera periódica, estos son los datos de Torres, el municipio que más nos interesa.
 
 - [Copernicus](https://land.copernicus.eu/en/products/snow/snow-cover-extent-europe-v1-0-500m) -> [Fotografía](media/sierra_nevada_26_06.png) de alta resolución por satelite de Copernicus de la capa de nieve y [API estadística.](https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Statistical.html)
 
