@@ -10,7 +10,7 @@ España es un país montañoso, que cuenta con multitud de lugares a lo largo y 
 
 Cada uno de estos deportes requiere de una serie de condiciones naturales especificas que se deben dar para hacer posible su práctica. Concretamente Jaén, es una de las provincias que mas montañas y entornos naturales tiene del sur de la peninsula, pero es una gran desconocida, lo que imposibilita muchas veces llegar a conocer o organizar un viaje o una escapada.
 
-El problema concreto se da en el "canuto de peña Jaén", una escarpada pendiente de hielo y roca que se usa para acceder a la montaña homónima. Se carece de un boletín de información detallado que permita conocer las condiciones del momento para planear una ruta.
+El problema concreto se da en el "canuto de peña Jaén", una escarpada pendiente de hielo y roca que se usa para acceder a la montaña homónima. Se carece de un boletín de información detallado que permita conocer las condiciones del momento para planear una ruta, esto tiene graves ceonsecuencias, puedes llegar al lugar y encontrarte que no hay nieve, que te pille una tormenta, que haya mas nieve de la esperada o que esta este helada, que haga demasiado calor para el equipamiento que se está usando o lo contrario, que haga demasiado frio, cualquiera de estas posibilidad daria lugar a no poder realizar la actividad.
 
 ![Fotografía de la zona en cuestión](media/canuto_peña_jaen.jpg)
 
