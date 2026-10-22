@@ -1,3 +1,6 @@
+En este archivo pordemos encontrar los datos que hacen falta y que se obtendrán de Torres, para calcular las temperaturas y las demas variables meteorológicas en la cima a partir de ellos.
+
+
 [ {
   "idema" : "5165X",
   "lon" : -3.563581,
