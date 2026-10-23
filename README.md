@@ -39,5 +39,12 @@ He reunido las siguientes fuentes:
 ## ¿Donde está la logica de negocio?
 Se plantea realizar una ficha de seguridad especifica para Peña Jaén, que detalle a partir de los datos obtenidos de estaciones cercanas, las temperaturas y condiciones esperadas. Se realizarian calculos a partir de los datos de temperatura y humedad para obtener las condiciones de temperatura y humedad arriba en la montaña, y se añadirá la última foto disponible de satelite junto con una descripción del posible estado de la nieve en base a las condiciones de los últimos dias y una recomendación de otro dia de la semana que tenga mejores condiciones de esa semana. De manera adicional, en caso de existir, se añadiran reportes recientes de personas reales que hicieron la ruta.
 
+## Doccumentos de interes
+
+- [user journey](docs/user_journey.md)
+- [personas](docs/personas.md)
+- [milestones](docs/milestones.md)
+- [user stories](docs/user_stories.md)
+
 ## Configuración adicional
 Puede verse en detalle la configuración adicional de este proyecto en: [Ver detalles de configuración](configuracion.md)
