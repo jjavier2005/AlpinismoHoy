@@ -14,4 +14,4 @@ Samuel suele hacer alpinismo invernal y hace poco le hablaron de Peña Jaén. Es
 
 Samuel subió por el corredor por que la temperatura esa mañana era relativamente fría, sin embargo, se tuvo que dar la vuelta debido a que el no lo sabía, pero los dias anteriores había hecho calor y una sección de la nieve estaba demasiado blanda, dando lugar a que fuese poco seguro seguir intentando avanzar.
 
-A la tarde siguiente un amigo le recomendó AlpinismoHoy, que permite obtener una recomendación de ruta automática entre las disponibles en base a las condiciones de los dias anteriores y el estado previsto de la nieve.
+A la tarde siguiente un amigo le recomendó AlpinismoHoy, que permite obtener una recomendación de ruta y fecha automática entre las disponibles en base a las condiciones de los dias anteriores y el estado previsto de la nieve.

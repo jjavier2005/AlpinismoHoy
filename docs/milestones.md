@@ -6,4 +6,4 @@ Este hito desarrollará el modelo inicial que será el correspondiente a la HU00
 
 ## Milestone 1: Implementar la lógica de negocio.
 
-Este hito usará el modelado del hito anterior para, a partir de el, implmenentar la lógica de negocio para dar una solución al problema descrito en la HU001. Se considera superado cuando se tenga una solución a lo mencionado que satisfaga lass necesidades del usuario correctamente.
+Este hito usará el modelado del hito anterior para, a partir de el, implmentar la lógica de negocio para dar una solución al problema descrito en la HU001. Se considera superado cuando se tenga una solución a lo mencionado que satisfaga lass necesidades del usuario correctamente.
